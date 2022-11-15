@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "co-wash-symposium-2023"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - proposal.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
