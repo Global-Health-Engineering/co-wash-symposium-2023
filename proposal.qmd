@@ -3,7 +3,7 @@ title: "Proposal"
 bibliography: prop-co-wash-symposium-2023.bib
 ---
 
-This is the original proposal that was prepared for the Colorado WASH Symposium 2021. It is also [available as a Google Doc]() if you are interested to comment on it.
+This is the original proposal that was prepared for the Colorado WASH Symposium 2021. It is also [available as a Google Doc](https://docs.google.com/document/d/15I2rFXnGOU_TOc4KSPrMUuG7pPaMo7qu/edit?usp=sharing&ouid=106935258332658829405&rtpof=true&sd=true) if you are interested to comment on it.
 
 # Proposal
 
