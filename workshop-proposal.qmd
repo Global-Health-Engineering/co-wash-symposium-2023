@@ -1,5 +1,5 @@
 ---
-title: "Proposal"
+title: "openwashdata - a community effort to bring open data practices to the WASH sector"
 bibliography: prop-co-wash-symposium-2023.bib
 ---
 
@@ -7,7 +7,7 @@ This is the original proposal that was prepared for the Colorado WASH Symposium 
 
 # Proposal
 
-The benefits for academics to apply open data practices to their work are well-researched and understood, but need to be clarified for professionals working at the policy, implementation or evaluation components. Additionally, few in the WASH sector know of FAIR (Findable, Accessible, Inoperable, Reusable) data sharing principles or understand the benefits of open file formats, machine-readability or machine-actionable metadata. Unprocessed (raw) data is rarely shared, and even processed data is often stuck in proprietary spreadsheet-based and word-processing software or, worse, in PDFs. Unpublished (or published not following FAIR principles) data remains inaccessible to other researchers who could explore new analysis methods. As a result, collaboration is stifled, resources are wasted, and the wheel is constantly reinvented at an extensive cost to donors and project beneficiaries.
+The benefits for academics to apply open data practices to their work are well-researched and understood but need to be clarified for professionals working at the policy, implementation or evaluation components. Few in the WASH sector know of FAIR (Findable, Accessible, Inoperable, Reusable) data sharing principles or understand the benefits of open file formats, machine-readability or machine-actionable metadata. Unprocessed (raw) data is rarely shared, and even processed data is often stuck in proprietary spreadsheet-based and word-processing software or, worse, in PDFs. Unpublished (or published not following FAIR principles) data remains inaccessible to other researchers who could explore new analysis methods. As a result, collaboration is stifled, resources are wasted, and the wheel is constantly reinvented at an extensive cost to donors and project beneficiaries.
 
 The "Data Science for WASH" workshop hosted at the Colorado WASH Symposium 2021 focused on data analysis aspects. This workshop focuses on data management aspects with hands-on practical experience using Posit Cloud for interactive live coding and GitHub for data publication. Participants will get to discuss and share their data management experiences in break-out sessions where outputs are captured using a digital whiteboard solution (e.g. Padlet). The event will be hosted remotely using Zoom, with requirements for participation being an internet connection, a browser, an account on GitHub, an ORCID iD, and a willingness to learn.
 
