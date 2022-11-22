@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - proposal.qmd
+      - workshop-proposal.qmd
 
 format:
   html:
